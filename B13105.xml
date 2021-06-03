@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning farthing tokens.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13105</idno><idno type="EEBO-CITATION">99892612</idno>
+  <idno type="VID">185763</idno>
+  <idno type="EEBO-PROQUEST">2240934554</idno>
+  
+            <idno type="STC">STC 9057</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[36]</idno>
+            <idno type="STC">ESTC S123780</idno>
+            <idno type="PROQUEST">ocm99892612</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892612e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185763)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning farthing tokens.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1635. [i.e. 1636]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon. Publication date is given according to Lady Day dating.</note>
+                  <note>Dated at end: VVhitehall the first day of March, in the eleuenth yeere of our reigne. ...</note>
+                  <note>Arms 24; Steele notation: Our notwithstanding 2) inconueniences, commandment.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tokens --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coins, English --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185763:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head>❧ A Proclamation concerning Far<g ref="char:EOLhyphen"/>thing Tokens.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas diuers Proclamations have beene published as well by Our</hi> late deare Father King <hi>Iames</hi> of blessed memorie, as by Our selfe, to authorize the vse of such Farthing Tokens as were made by au<g ref="char:EOLhyphen"/>thority of Our said Father or Our selfe, and to restraine the vse of all others, with straight prohibitions, that such as were authorized, should neither bee counterfeited, nor being counterfeited, should bee paid as Farthing Tokens betweene man and man; For as much as notwithstanding the care taken herein, great quantities of counterfeit farthing Tokens haue beene made &amp; vented, both in <hi>England</hi> and <hi>Ireland,</hi> to the contempt of Our Royall authority, and to the deceit of our people of both Realmes; We do therefore again publish and declare, That it is our pleasure, that no Farthing Tokens shall be paid, or receiued, or be in vse amongst Our subiects of Our Realmes of <hi>England</hi> &amp; <hi>Ireland,</hi> but such as heretofore haue beene made, or hereafter shall be made for Our said Realmes, by the authority of Our late Royall Fa<g ref="char:EOLhyphen"/>ther or Our selfe: And that if any of them shall either bee counterfeited, or any counterfeit To<g ref="char:EOLhyphen"/>kens, or any Copper pieces made for the vse of Our Realme of <hi>Scotland,</hi> or any forraine parts, shall <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e vented or vsed, that in all such cases, all persons willingly, or knowingly offending therein, shall be proceeded against according to Our Lawes, and as transgressours of Our authority and Royall Prerogative. And whereas by the abuse of some particular persons (whose onely aime is to make a private gaine and profit to themselues) Our people in many parts of this Kingdom, and especially poore labourers, whose necessities enforce them to take their hire in any money, are compelled many times to take all or most part of their wages in Farthings, from such as buy great quantities at low rates, and make a commodity thereby: Which abuse, as it hath beene a great burden, and grieuance to Our people in many parts of this Realme, so it is to be feared it will hereafter turne to the great disaduantage of Our Patentees, if it be not remedied by a timely <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nformation.</p>
+            <pb facs="tcp:185763:2"/>
+            <p>Wee therefore willing to preuent and meet with such growing euils and inconueniences, occasioned by forcing vpon Our subiects the said Farthing Tokens, which being rightly vsed, are of themselues very necessary, and are made chiefly for the reliefe of the poore, and to bee vented and vsed onely for exchanging in small summes, but not to bee put vpon any against their wills in great payments or otherwise, Doe hereby declare that it is vtterly vnlawfull and contrary to Our meaning, That any Farthing Tokens should be hereafter enforced vpon any poore Labourers, Workemen, or other persons whatsoeuer, against their wills: And to the end that such Farthing Tokens which hereafter shall be made by Our authority, may be the better knowne and distinguished from such as are counterfeit, We haue directed Our right trusty &amp; welbeloued, <hi>Henry</hi> Lord <hi>Matrauers,</hi> and Sir <hi>Francis Crane</hi> Knight, Chancellor of the most Noble Order of the Garter (who haue vnder Vs the care and managing of that businesse) to cause the said Farthing Tokens to be made with such a distinction of Brasse, as will readily make them knowne from all others, and thereby free Our people from being any longer decei<g ref="char:EOLhyphen"/>ued; Which Farthing Tokens so made We doe hereby authorize to passe betweene man and man, within Our Realmes of <hi>England</hi> and <hi>Ireland</hi> and Dominion of <hi>Wales</hi> for the value of Far<g ref="char:EOLhyphen"/>things, to be vsed onely for exchange in small summs, for the ease and conuenience of Our said Subiects that shall be willing to accept the same.</p>
+            <p>And it is likewise Our pleasure, That the said Farthing Tokens, and all other Farthing Tokens formerly made by authority from Vs, or Our late Father, of Copper onely, which are in vse and passe betweene man and man amongst Our Subiects, within Our Realmes of <hi>England</hi> and <hi>Ireland,</hi> shall from time to time be rechanged into the currant Moneys and Coynes of Our said Kingdomes, for the ease of Our people that shall require such rechange.</p>
+            <p>And We doe hereby straitly charge and command all Our Subiects to take notice of the said alteration of the Farthing Tokens and of this Our Care for the rechange; which Our will is should bee so guided and gouerned, that men who shall receiue the said Tokens in the vse of their Trades may not be put to losse thereby, nor yet any be encouraged vnder hope of the same, to get into their hands greater proportion of the said Farthing Tokens then may well serue for their necessary vse and occasions.</p>
+            <p>And Wee doe hereby further authorize and require all Our Iudges, Iustices, and Barons of Our Exchequers of Our said Realmes of <hi>England</hi> and <hi>Ireland,</hi> and all Iustices of Peace, Maiors, Sheriffes, Bayliffes, Constables, Headboroughes, and other Our Officers and Mini<g ref="char:EOLhyphen"/>sters of Our said Realmes, that they and euery of them be from time to time furthering, ayding and assisting in the due accomplishment and execution of Our Royall will and commandement herein declared.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at VVhitehall </hi>
+                  <date>
+                     <hi>the first day of March, in the eleuenth yeere of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ God saue the King.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of IOHN BILL. 1635.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
